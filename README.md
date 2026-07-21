@@ -17,7 +17,7 @@ or Developers listed throughout**
 
 ////////////////////////////////////////////////////////////////////////////////
 
- Please support those that do there part and make these things possible!!!
+ Please support those that do their part and make these things possible!!!
 
  Links to compatable projects/firmwares 👇👇👇 
 
